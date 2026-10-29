@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Archive+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Zipware Free Installer** — Zipware is a free, lightweight Windows archive manager supporting ZIP, 7Z, RAR, TAR, and other formats. Works without internet access, no account required. Full offline installation.
+**💻 Zipware Free Installer** — Zipware is a free archive manager for Windows that handles ZIP, RAR, 7-Zip, TAR, ISO, and many other archive formats. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Zipware
 
-Zipware is a free, lightweight Windows archive manager supporting ZIP, 7Z, RAR, TAR, and other formats. It provides a simple interface for creating, extracting, and browsing archives with drag-and-drop support and strong encryption for ZIP files.
+Zipware is a free archive manager for Windows that handles ZIP, RAR, 7-Zip, TAR, ISO, and many other archive formats. Create, extract, and manage archives with a simple, clean interface. Zipware supports AES-256 encryption, multi-part archives, and self-extracting executable creation. Its lightweight design and lack of advertising make it a clean alternative to feature-heavy archive managers.
 
 ---
 
 ## ❌ Problem: Zipware is hard to access
 
-- **Windows Only** — Not available on macOS or Linux
-- **Basic Feature Set** — Less capable than 7-Zip or PeaZip for advanced archive operations
-- **Development Pace** — Updates arrive infrequently
-- **Limited RAR Creation** — Can extract RAR archives but RAR creation not supported
+- **Windows Only** — No macOS or Linux version
+- **Feature Set** — Less feature-rich than WinRAR or 7-Zip for advanced archive management
+- **RAR Creation** — Cannot create RAR archives; extraction only
+- **Update Frequency** — Updates less frequent than major archive tools
 
 ---
 
@@ -121,7 +121,7 @@ Zipware is a free, lightweight Windows archive manager supporting ZIP, 7Z, RAR, 
 
 ---
 
-**Zipware Free Installer** — Zipware is a free, lightweight Windows archive manager supporting ZIP, 7Z, RAR, TAR, and other formats. Install without internet connection today!
+**Zipware Free Installer** — Zipware is a free archive manager for Windows that handles ZIP, RAR, 7-Zip, TAR, ISO, and many other archive formats. Install without internet connection today!
 
 <div align="center">
 
